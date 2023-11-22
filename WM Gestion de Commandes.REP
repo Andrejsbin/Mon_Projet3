@@ -1,0 +1,12 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=F	;Analysis GUID
+LOCALIZATION_UTF8=EC8E526D19584C149D29F2A3A1F9B0E7	Client	C:\Mes Projets Mobile\Mon_Projet3\Exe\Android Gestion de Commandes\Client.FIC
+LOCALIZATION_UTF8=87D0756269BA4FAAA89D505DCCF5EE6F	Adresse	C:\Mes Projets Mobile\Mon_Projet3\Exe\Android Gestion de Commandes\Adresse.FIC
+LOCALIZATION_UTF8=0124C9D04EEC4C7198FA0BE5D8C3C595	HistoriqueContact	C:\Mes Projets Mobile\Mon_Projet3\Exe\Android Gestion de Commandes\HistoriqueContact.FIC
+LOCALIZATION_UTF8=C1EFFF70492A4CDEADB28960812ECAF0	Commande	C:\Mes Projets Mobile\Mon_Projet3\Exe\iOS Gestion de Commandes\commande.fic
+LOCALIZATION_UTF8=EC8E526D19584C149D29F2A3A1F9B0E7	Client	C:\Mes Projets Mobile\Mon_Projet3\Exe\iOS Gestion de Commandes\client.fic
+LOCALIZATION_UTF8=87D0756269BA4FAAA89D505DCCF5EE6F	Adresse	C:\Mes Projets Mobile\Mon_Projet3\Exe\iOS Gestion de Commandes\adresse.fic
+LOCALIZATION_UTF8=C96F2445ECA54AE39C35978EB6497675	Facture	C:\Mes Projets Mobile\Mon_Projet3\Exe\iOS Gestion de Commandes\facture.fic
+LOCALIZATION_UTF8=6A6FB14D5DC143DA9D8A39BA3070E5C8	LigneCde	C:\Mes Projets Mobile\Mon_Projet3\Exe\iOS Gestion de Commandes\lignecde.fic
+LOCALIZATION_UTF8=48BB18C5DCAC4DDFB1F4F09A9323E9EF	Produit	C:\Mes Projets Mobile\Mon_Projet3\Exe\iOS Gestion de Commandes\produit.fic
